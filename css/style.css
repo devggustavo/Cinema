@@ -1,0 +1,44 @@
+.hoje {
+  color: darkred;
+}
+
+.amanha {
+  color:darkblue;
+}
+
+a {
+  text-decoration: none;
+}
+
+h2 a {
+  color: red;
+}
+
+p {
+  font-size: 20px;
+}
+
+body {
+  font-family: Arial;
+}
+
+h1 {
+  background: orangered;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  font-size: 35px;
+}
+
+body, h1 {
+  margin: 0px;
+}
+
+.locais {
+  background: gainsboro;
+  height: 20px;
+  font-style: normal;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 20px;
+  padding: 10px;
+}
